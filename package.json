@@ -22,7 +22,7 @@
     "lite-server": "^2.4.0"
   },
   "dependencies": {
-    "bootstrap": ">=^4.1.2",
+    "bootstrap": "^4.1.2",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
   }
