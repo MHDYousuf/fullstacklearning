@@ -60,6 +60,8 @@ input[type="radio"]{
     left: 0;
     min-height: 300px;
 }
-.resbutton{
-	height: fit-content;
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
 }
