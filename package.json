@@ -28,11 +28,17 @@
   "devDependencies": {
     "concurrently": "^4.1.0",
     "cssmin": "^0.4.3",
+    "grunt": "^1.0.3",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^2.1.0",
     "htmlmin": "0.0.7",
+    "jit-grunt": "^0.10.0",
     "lite-server": "^2.4.0",
     "node-sass": "^4.11.0",
     "onchange": "^5.2.0",
     "rimraf": "^2.6.3",
+    "time-grunt": "^1.4.0",
     "uglifyjs": "^2.4.11",
     "usemin-cli": "^0.5.1"
   },
@@ -41,6 +47,6 @@
     "bootstrap-social": "^5.1.1",
     "fontawesome": "^4.7.0",
     "jquery": "^3.3.1",
-    "popper.js": "^1.12.9"
+    "popper.js": "^1.14.3"
   }
 }
