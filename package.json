@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/myousuf07/fullstacklearning#readme",
   "devDependencies": {
+    "browser-sync": "^2.23.6",
     "concurrently": "^4.1.0",
     "cssmin": "^0.4.3",
     "grunt": "^1.0.3",
@@ -41,6 +42,8 @@
     "grunt-filerev": "^2.3.1",
     "grunt-sass": "^2.1.0",
     "grunt-usemin": "^3.1.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
     "htmlmin": "0.0.7",
     "jit-grunt": "^0.10.0",
     "lite-server": "^2.4.0",
